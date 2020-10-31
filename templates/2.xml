@@ -1,0 +1,9 @@
+<templateSet group="莙政">
+  <template name="gdata" value="self.__getData(&quot;$method$&quot;, $para$)" description="__getData()" toReformat="false" toShortenFQNames="true">
+    <variable name="method" expression="pyFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="para" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

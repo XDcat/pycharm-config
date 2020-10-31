@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="41501b0a-4a6a-49fd-a0fc-e3ab65a3d919" name="zlj@10.10.65.176:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="10.10.65.176" port="22" sshConfigId="3884f661-67ee-4465-8571-92710facd17a" sshConfig="zlj@10.10.65.176:22" />
+      </webServer>
+      <webServer id="5a443dec-7def-40e6-8266-5239909d72fd" name="zlj@10.10.64.42:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="10.10.64.42" port="22" sshConfigId="d8e0a528-46a7-467c-9100-8a455ed88470" sshConfig="zlj@10.10.64.42:22 password" />
+      </webServer>
+    </option>
+  </component>
+</application>
