@@ -85,6 +85,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimSettings">
