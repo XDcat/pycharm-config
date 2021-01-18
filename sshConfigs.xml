@@ -11,6 +11,7 @@
         <option name="customName" value="zlj@10.10.65.176:22" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="10.10.64.42" id="d8e0a528-46a7-467c-9100-8a455ed88470" port="22" nameFormat="DESCRIPTIVE" username="zlj" />
+      <sshConfig authType="PASSWORD" host="192.168.1.111" id="f8a1fbcd-1939-49a4-8905-359856e528b0" port="22" nameFormat="DESCRIPTIVE" username="zlj" />
     </configs>
   </component>
 </application>
