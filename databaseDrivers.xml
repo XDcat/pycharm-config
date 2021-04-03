@@ -70,10 +70,6 @@
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="oracle.19">
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="false" />
-    </driver>
     <driver id="oracle">
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
@@ -90,7 +86,16 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.31.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/sqlite-jdbc-3.25.1.jar</url>
+      </library>
     </driver>
     <driver id="sybase.jtds">
       <option name="auto-sync" value="true" />

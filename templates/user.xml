@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="utf" value="# -*- utf-8 -*-&#10;" description="utf-描述" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,16 @@
+<templateSet group="python log">
+  <template name="vdebug" value="log.debug(&quot;$variable_$ = %s&quot;, $var$)" description="debug 输出变量" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable_" expression="var" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="vinfo" value="log.info(&quot;$variable_$ = %s&quot;, $var$)" description="log 输出变量" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable_" expression="var" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
