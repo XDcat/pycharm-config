@@ -13,4 +13,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="initlog" value="import logging&#10;import logconfig&#10;logconfig.setup_logging()&#10;log = logging.getLogger(&quot;$logname$&quot;)" description="初始化log" toReformat="false" toShortenFQNames="true">
+    <variable name="logname" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
