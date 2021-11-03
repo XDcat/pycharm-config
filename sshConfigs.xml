@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="10.10.65.176" id="d219caab-ef0d-449f-bd2a-dd269f90b23c" port="22" customName="zlj@10.10.65.176:22" nameFormat="CUSTOM" username="zlj">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.10.65.176" id="d219caab-ef0d-449f-bd2a-dd269f90b23c" port="22" customName="zlj@10.10.65.176:22" nameFormat="CUSTOM" username="zlj">
         <option name="customName" value="zlj@10.10.65.176:22" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="10.10.65.176" id="cd3c8f2b-e756-4fc1-81c5-7f5b1c176f3c" port="22" customName="zlj@10.10.65.176:22" nameFormat="CUSTOM" username="zlj">
@@ -10,8 +10,8 @@
       <sshConfig authType="PASSWORD" host="10.10.65.176" id="3884f661-67ee-4465-8571-92710facd17a" port="22" customName="zlj@10.10.65.176:22" nameFormat="CUSTOM">
         <option name="customName" value="zlj@10.10.65.176:22" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="10.10.64.42" id="d8e0a528-46a7-467c-9100-8a455ed88470" port="22" nameFormat="DESCRIPTIVE" username="zlj" />
-      <sshConfig authType="PASSWORD" host="192.168.1.111" id="f8a1fbcd-1939-49a4-8905-359856e528b0" port="22" nameFormat="DESCRIPTIVE" username="zlj" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.10.64.42" id="d8e0a528-46a7-467c-9100-8a455ed88470" port="22" nameFormat="DESCRIPTIVE" username="zlj" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.111" id="f8a1fbcd-1939-49a4-8905-359856e528b0" port="22" nameFormat="DESCRIPTIVE" username="zlj" />
     </configs>
   </component>
 </application>
