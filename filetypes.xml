@@ -5,6 +5,7 @@
       <mapping pattern="dynamut2 input" type="AUTO_DETECTED" />
       <mapping ext="ddg" type="PLAIN_TEXT" />
       <mapping ext="pdb" type="PLAIN_TEXT" />
+      <mapping ext="blast" type="PLAIN_TEXT" />
       <mapping ext="fasta" type="PLAIN_TEXT" />
       <mapping ext="gephi" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
