@@ -4,7 +4,7 @@
     <property name="created">2022-06-12T21:04:31</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-08-29T23:15:52</property>
+    <property name="modified">2022-08-27T22:54:35</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3802,6 +3802,7 @@
         <option name="FOREGROUND" value="212c32" />
         <option name="BACKGROUND" value="f8e71c" />
         <option name="EFFECT_COLOR" value="f8e71c" />
+        <option name="ERROR_STRIPE_COLOR" value="ffff28" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
