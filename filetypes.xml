@@ -10,6 +10,7 @@
       <mapping ext="fasta" type="PLAIN_TEXT" />
       <mapping ext="gephi" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="aln" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="fa" type="PLAIN_TEXT" />
       <mapping ext="gexf" type="PLAIN_TEXT" />
