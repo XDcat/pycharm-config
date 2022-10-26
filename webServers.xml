@@ -13,6 +13,9 @@
       <webServer id="50079ca3-4512-4391-861e-1ed01d6c06a7" name="zlj@192.168.1.111:22 password">
         <fileTransfer accessType="SFTP" host="192.168.1.111" port="22" sshConfigId="f8a1fbcd-1939-49a4-8905-359856e528b0" sshConfig="zlj@192.168.1.111:22 password" />
       </webServer>
+      <webServer id="e8d89f2a-26d6-4e78-8c41-c912eba4f014" name="zlj@192.168.1.111:22 password">
+        <fileTransfer accessType="SFTP" host="192.168.1.111" port="22" sshConfigId="f8a1fbcd-1939-49a4-8905-359856e528b0" sshConfig="zlj@192.168.1.111:22 password" />
+      </webServer>
     </option>
   </component>
 </application>
